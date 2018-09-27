@@ -28,6 +28,7 @@ Google Chrome](http://users.encs.concordia.ca/~pcr/paper/Rahman2018EMSE-preprodu
 
 # Source Code Location
 * [Chromium build](https://www.chromium.org/developers/how-tos/get-the-code)
+* [Chromium OS build](https://www.chromium.org/chromium-os/build)
 
 # Discussion Groups
 * [General Chromium discussion group](https://groups.google.com/a/chromium.org/group/chromium-discuss)

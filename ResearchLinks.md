@@ -24,3 +24,13 @@ Format: [Type of link], [link], [Name of link contributor], [Breif notes on link
 * [Chrome Apps Architecture](https://developer.chrome.com/apps/app_architecture)
 * [The Modular and Feature Toggle Architectures of
 Google Chrome](http://users.encs.concordia.ca/~pcr/paper/Rahman2018EMSE-preproduction.pdf)
+
+
+# Source Code Location
+* [Chromium build](https://www.chromium.org/developers/how-tos/get-the-code)
+
+# Discussion Groups
+* [General Chromium discussion group](https://groups.google.com/a/chromium.org/group/chromium-discuss)
+* [General Chromium OS discussion group](https://groups.google.com/a/chromium.org/group/chromium-os-discuss)
+* [Chromium Extensions discussion group](https://groups.google.com/a/chromium.org/group/chromium-extensions)
+* [Chromium App discussion group](https://groups.google.com/a/chromium.org/group/chromium-apps)
